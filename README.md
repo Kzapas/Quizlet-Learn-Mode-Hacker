@@ -10,3 +10,5 @@ pip install selenium
 2. Replace the quizletId with the Quizlet ID of your study set. (e.g. quizlet.com/your_id/learn)
 
 Run ``autosolve.py``
+
+Make sure to replace the Chrome Driver file path with your own.
