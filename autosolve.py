@@ -41,10 +41,10 @@ isCheckpoint = 'div.FixedActionLayout-action > div > button'
 
 isEnd = '.EndView'
 
-chromedriver = 'C:\\MEGA\\Python\\Quizlet Hacker\\chromedriver.exe'
-quizletId = "559191324"
-username = "KitasV"
-password = "4111007078"
+chromedriver = 'C:\\Your File Path\\chromedriver.exe'
+quizletId = "your quizlet test id"
+username = "your username"
+password = "your password"
 driver = webdriver.Chrome(chromedriver)
 
 # get data
